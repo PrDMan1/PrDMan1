@@ -16,7 +16,7 @@ I'm PrDr, a passionate **Full-Stack Developer** and **Product Manager** with yea
 Here are some of the technologies I love working with:
 
 - **Languages:** JavaScript , Python , PHP , C#
-- **Frontend:** React , HTML , CSS , Parallax ....
+- **Frontend:**Vue JS , React , HTML , CSS , Parallax ....
 - **Backend:** Django, Laravel, Django , Flask 
 - **AI Tools:** TensorFlow , OpenCV , Mediapipe , Pandas , ....
 
@@ -26,9 +26,7 @@ Here are some of the technologies I love working with:
 
 - GitHub: [https://github.com/PrDMan1](https://github.com/PrDMan1)
 - Instagram: [https://www.instagram.com/prd_taha/?locale=es_ES%2F](https://www.instagram.com/prd_taha/?locale=es_ES%2F)
-- Email: <a href="mailto:prdr3030@gmail.com">prdr3030@gmail.com</a>
-
-
+- Email: prdr3030@gmail.com
 
 ---
 
